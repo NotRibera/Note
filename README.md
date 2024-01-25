@@ -1,4 +1,4 @@
-# Keeper  
+# Notes  
   
 ## Steps:
 Step 1 : Click on take a note input field.  
