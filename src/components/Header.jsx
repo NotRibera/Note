@@ -6,7 +6,7 @@ function Header() {
     <header>
       <h1>
         <DescriptionIcon />
-        Keeper
+        Notes
       </h1>
     </header>
   );
